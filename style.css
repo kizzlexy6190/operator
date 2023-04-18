@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+input{
+    height: 20px;
+    width: 250px;
+}
+#form{
+    background-color: whitesmoke;
+    padding-bottom: 50px;
+}
+#output{
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 3px 3px black;
+    font-family: sans-serif;
+    color: #444;
+    font-size: 40px;
+}
